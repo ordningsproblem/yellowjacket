@@ -1,3 +1,6 @@
+# This is a base tune for a clean build, can be run without any gyro lowpass filtering but remember to check motor temperature.
+# AND MAKE SURE YOU KNOW WHAT THESE SETTINGS DO BEFORE APPLYING THEM! I take no responsibility for your mistakes.
+
 set gyro_lpf1_static_hz = 0
 set gyro_lpf2_static_hz = 0
 set dyn_notch_count = 0
