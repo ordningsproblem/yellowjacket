@@ -11,4 +11,4 @@ The frame is designed to carry an action camera like the GoPro Hero with low dis
 
 ![image](https://user-images.githubusercontent.com/99285425/153059531-b61a5082-2a75-4a8f-8b60-670032074fdb.png)
 
-![image](https://user-images.githubusercontent.com/99285425/153059305-6908290e-7cec-41c2-bccd-6a1377ab4d3a.png)
+![image](https://user-images.githubusercontent.com/99285425/153061304-98ce7fec-7160-49a3-8a79-177f4e8e6c22.png)
