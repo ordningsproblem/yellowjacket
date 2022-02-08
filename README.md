@@ -13,4 +13,5 @@ All TPU is designed for 6mm knurled standoffs and WILL be lose and cause gyro no
 
 <img src="https://user-images.githubusercontent.com/99285425/153059531-b61a5082-2a75-4a8f-8b60-670032074fdb.png" width="800">
 <img src="https://user-images.githubusercontent.com/99285425/153073123-2b202468-e719-4324-ad80-01a37074829d.png" width="800">
-<img src="https://user-images.githubusercontent.com/99285425/153061304-98ce7fec-7160-49a3-8a79-177f4e8e6c22.png" width="800">
+<img src="https://user-images.githubusercontent.com/99285425/153086924-cfa1ca45-2f78-4a91-9987-8ab771a9cf2f.png" width="800">
+
