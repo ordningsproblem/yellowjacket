@@ -11,8 +11,6 @@ The frame is designed to carry an action camera like the GoPro Hero with low dis
 
 All TPU is designed for 6mm knurled standoffs and WILL be lose and cause gyro noise if used with smaller standoffs.
 
-![image](https://user-images.githubusercontent.com/99285425/153059531-b61a5082-2a75-4a8f-8b60-670032074fdb.png)
-
-![image](https://user-images.githubusercontent.com/99285425/153073123-2b202468-e719-4324-ad80-01a37074829d.png)
-
-![image](https://user-images.githubusercontent.com/99285425/153061304-98ce7fec-7160-49a3-8a79-177f4e8e6c22.png)
+<img src="https://user-images.githubusercontent.com/99285425/153059531-b61a5082-2a75-4a8f-8b60-670032074fdb.png" width="800">
+<img src="https://user-images.githubusercontent.com/99285425/153073123-2b202468-e719-4324-ad80-01a37074829d.png" width="800">
+<img src="https://user-images.githubusercontent.com/99285425/153061304-98ce7fec-7160-49a3-8a79-177f4e8e6c22.png" width="800">
