@@ -13,9 +13,8 @@ All TPU is designed for 6mm knurled standoffs and WILL be lose and cause gyro no
 
 Arms of all styles will not always be updated at the same time as focus lies on X-configuration 5-inch. Feel free to contact me for arm options and updates.
 
-<img src="https://user-images.githubusercontent.com/99285425/153059531-b61a5082-2a75-4a8f-8b60-670032074fdb.png" width="800">
+<img src="https://user-images.githubusercontent.com/99285425/174451184-1975f8fa-2328-480d-959a-7dfbd81e49d5.png" width="800">
 <img src="https://user-images.githubusercontent.com/99285425/159500625-e32a9b99-42d8-48a5-8d36-c26d485d3e4b.jpg" width="800">
-<img src="https://user-images.githubusercontent.com/99285425/153073123-2b202468-e719-4324-ad80-01a37074829d.png" width="800">
-<img src="https://user-images.githubusercontent.com/99285425/153086924-cfa1ca45-2f78-4a91-9987-8ab771a9cf2f.png" width="800">
+<img src="https://user-images.githubusercontent.com/99285425/153059531-b61a5082-2a75-4a8f-8b60-670032074fdb.png" width="800">
 
 
