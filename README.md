@@ -1,4 +1,16 @@
 # yellowjacket
+
+### V1.4 ###
+
+Added split body design with new electronics mounting holes (Should be Walksnail and DJI O3 compatible, not verified as of 2022-12-11) in one-file format in STEP, OBJ, and Fusion360 F3D formats
+Added complete Humblebee 3-inch freestyle+cinewhoop frame design
+Note: Most TPU parts for the old body can easily be modified for split deck as deck height is the main difference.  
+
+############
+
+
+
+
 Freestyle FPV quadcopter frame
 
 
