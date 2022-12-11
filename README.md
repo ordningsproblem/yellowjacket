@@ -8,7 +8,23 @@
 
 -Note: Most TPU parts for the old body can easily be modified for split deck as deck height is the main difference.  
 
+YJ1.4:
+
+<img src="https://user-images.githubusercontent.com/99285425/206910275-8d764f07-7ca7-43ad-9a08-e7d7cdb3c10b.JPG" width="800">
+<img src="https://user-images.githubusercontent.com/99285425/206910476-91bdebf2-a0df-4842-af87-680628e3e114.JPG" width="800">
+
+Humblebee:
+
+<img src="https://user-images.githubusercontent.com/99285425/206910340-8c496401-abd1-443a-a4dd-fc6c98808ca5.JPG" width="800">
+<img src="https://user-images.githubusercontent.com/99285425/206910385-11074abb-8c9a-4b81-b503-9e43bc49fa72.JPG" width="800">
+
+
+
 ############
+
+
+
+
 
 
 
