@@ -43,7 +43,7 @@ All TPU is designed for 6mm knurled standoffs and WILL be lose and cause gyro no
 
 Arms of all styles will not always be updated at the same time as focus lies on X-configuration 5-inch. Feel free to contact me for arm options and updates.
 
-If you don't want to cut the frame yourself I'm trying to keep the current version available with hardware at: https://armattanproductions.com/pages/kit_detail/3074
+If you don't want to cut the frame yourself I'm trying to keep the current version available with hardware at: https://armattanproductions.com/pages/shop_product_grid/7553
 
 <img src="https://user-images.githubusercontent.com/99285425/174782555-245100d8-5518-4ec8-82ba-b0abfa7ab147.png" width="800">
 <img src="https://user-images.githubusercontent.com/99285425/159500625-e32a9b99-42d8-48a5-8d36-c26d485d3e4b.jpg" width="800">
