@@ -2,7 +2,9 @@
 
 ### V1.4 ###
 
--Added split body design with new electronics mounting holes (Should be Walksnail and DJI O3 compatible, not verified as of 2022-12-11) in one-file format in STEP, OBJ, and Fusion360 F3D formats
+-Added split body design with new electronics mounting holes in one-file format in STEP, OBJ, and Fusion360 F3D formats
+-DJI O3 compatible both with standard cam plates and added TPU front mount for less wide angle obstuction (Note: TPU front mount for O3 requires 200mm camera cable) 
+(Should be Walksnail compatible, not verified as of 2023-06-15)
 
 -Added complete Humblebee 3-inch freestyle+cinewhoop frame design
 
