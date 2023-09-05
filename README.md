@@ -4,6 +4,8 @@
 
 -Added deadcat 5-inch arm kit and extended O3 camplates
 
+<img src="https://github.com/ordningsproblem/yellowjacket/assets/99285425/c3070802-cf82-4998-bf76-59062b4daa67" width="800">
+
 ### V1.4 ###
 
 -Added split body design with new electronics mounting holes in one-file format in STEP, OBJ, and Fusion360 F3D formats
