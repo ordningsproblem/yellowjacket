@@ -1,5 +1,9 @@
 # yellowjacket
 
+### V1.4.1 ###
+
+-Added deadcat 5-inch arm kit and extended O3 camplates
+
 ### V1.4 ###
 
 -Added split body design with new electronics mounting holes in one-file format in STEP, OBJ, and Fusion360 F3D formats
