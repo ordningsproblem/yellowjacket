@@ -4,7 +4,7 @@
 
 -Added deadcat 5-inch arm kit and extended O3 camplates
 
-<img src="https://github.com/ordningsproblem/yellowjacket/assets/99285425/c3070802-cf82-4998-bf76-59062b4daa67" width="800">
+<img src="https://github.com/ordningsproblem/yellowjacket/assets/99285425/5af3c970-dcc0-431a-8be3-6063887aa64b" width="800">
 
 ### V1.4 ###
 
