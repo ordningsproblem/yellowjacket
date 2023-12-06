@@ -16,7 +16,12 @@ Arms of all styles will not always be updated at the same time as focus lies on 
 
 If you don't want to cut the frame yourself I'm trying to keep the current version available with hardware at: https://armattanproductions.com/pages/shop_product_grid/7553
 
+-------------------------
+### V1.4.2 ###
 
+-Added deadcat 6-inch arm kit
+
+<img src="https://github.com/ordningsproblem/yellowjacket/assets/99285425/90267f0f-7690-40ee-88b8-198092ac2582" width="800">
 
 -------------------------
 ### V1.4.1 ###
