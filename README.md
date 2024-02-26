@@ -4,13 +4,13 @@ Freestyle FPV quadcopter frame
 
 
 This is a carbon fibre freestyle frame designed with modularity in mind.
-The project is suitable for 5-inch to 7-inch propellers. Arms are available in squished-X configuration (5 inch) as well as deadcat configuration (5 or 7 inch).
-The frame in it's current design is cut from sheets/plates of carbon fibre composite, recommended thickness noted in DXF filenames. Additional mounts and parts are available as 3d-printable files.
+The main body is suitable for 5-inch to 7-inch propellers. Arms are available here in squished-X configuration (5 inch) as well as deadcat configuration (5 to 6 inch).
+The frame in it's current design is cut from sheets/plates of carbon fibre composite, recommended thickness noted in DXF filenames and STEP-files. Additional mounts and parts are available as 3d-printable files.
 
-The frame can be used with 30x30 (recommended for easy arm replacement) or 20x20 stacks. The frame is designed for a 20x20 VTX (Caddx Vista or analog) but can hold a full size DJI Air Unit using a TPU cage (noted in DXF file name).
+The frame can be used with 30x30 (recommended for easy arm replacement) or 20x20 stacks. The frame is designed for a 20x20-25.5x25.5mm VTX (Caddx Vista, HDZero, Walksnail or analog) but can hold a full size DJI Air Unit using a TPU cage (noted in DXF file name).
 The frame is designed to carry an action camera like the GoPro Hero with low displacement on center of gravity.
 
-All TPU is designed for 6mm knurled standoffs and WILL be lose and cause gyro noise if used with smaller standoffs.
+All TPU is designed for 6mm knurled standoffs and will be lose and cause gyro noise if used with smaller standoffs.
 
 Arms of all styles will not always be updated at the same time as focus lies on X-configuration 5-inch. Feel free to contact me for arm options and updates.
 
